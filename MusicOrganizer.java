@@ -156,4 +156,14 @@ public class MusicOrganizer
             }
         }
     }
+    
+    public void playSample(String searchString)
+    {
+        for(String Artistname : files) {
+            if(Artistname.contains(searchString)) {
+                // A match.
+                System.out.println(Artistname);
+            }
+        }
+    }
 }
