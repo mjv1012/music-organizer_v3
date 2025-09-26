@@ -15,3 +15,6 @@ Create a MusicOrganizer object on the object bench.
 Use its methods to add, remove, and play files. The listAllFiles
 method prints a list of the collection.
 
+
+Q25: There are no files that are matched 
+Q28: for (Track track : trackList)
